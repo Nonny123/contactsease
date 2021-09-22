@@ -1,5 +1,6 @@
-# Contact Application (Firebase Data store)
+# ContactEase (Firebase Data store)
 
+A contacts app that users can use to save their contacts locally and remotely in the cloud.
 
 ### Features
 

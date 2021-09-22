@@ -14,4 +14,13 @@
 
 # Unit and instrumentation tests
 
+-   Junit
+
+-   Mockito
+
+
 # CI/CD
+
+-   Jenkins
+
+-   Git Actions

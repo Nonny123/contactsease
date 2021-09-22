@@ -13,14 +13,14 @@ A contacts app that users can use to save their contacts locally and remotely in
 -   Call should ask for permission
 
 
-# Unit and instrumentation tests
+### Unit and instrumentation tests
 
 -   Junit
 
 -   Mockito
 
 
-# CI/CD
+### CI/CD
 
 -   Jenkins
 
